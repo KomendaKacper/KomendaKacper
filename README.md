@@ -1,8 +1,10 @@
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Background" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Background"/>
 
-## Hi there! 👋
+<h2 align="center">Hi there! 👋</h2>
 
-Welcome to my GitHub profile! I'm Kacper, a second-year student at AGH University of Science and Technology in Krakow, where I'm pursuing a degree in Automatics and Robotics. I'm passionate about becoming a Python Developer.
+<p align="center">
+  Welcome to my GitHub profile! I'm Kacper, a second-year student at AGH University of Science and Technology in Krakow, where I'm pursuing a degree in Automatics and Robotics. I'm passionate about becoming a Python Developer.
+</p>
 
 ---
 
