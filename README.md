@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm Kacper, a second-year student at AGH University of Science and Technology in Krakow, where I'm pursuing a degree in Automatics and Robotics. I'm passionate about becoming a Python Developer.
 
+---
+
 ### My Skills
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -38,7 +40,9 @@ Welcome to my GitHub profile! I'm Kacper, a second-year student at AGH Universit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
 </a>
 
-### Contact and others
+---
+
+### Contact and Others
 
 <a href="mailto:komenda@student.agh.edu.pl" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"/>
@@ -49,6 +53,8 @@ Welcome to my GitHub profile! I'm Kacper, a second-year student at AGH Universit
 <a href="https://leetcode.com/u/Komenda123/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
 </a>
+
+---
 
 ### Get In Touch
 
