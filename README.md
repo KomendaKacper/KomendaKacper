@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Welcome to my GitHub profile! I'm Kacper, a second-year student at AGH University of Science and Technology in Krakow, where I'm pursuing a degree in Automation and Robotics. I'm passionate about becoming a Python Developer.
+Welcome to my GitHub profile! I'm Kacper, a second-year student at AGH University of Science and Technology in Krakow, where I'm pursuing a degree in Automatics and Robotics. I'm passionate about becoming a Python Developer.
 
 ### My Skills
 
