@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Background" width="100%" />
+
 ## Hi there! 👋
 
 Welcome to my GitHub profile! I'm Kacper, a second-year student at AGH University of Science and Technology in Krakow, where I'm pursuing a degree in Automatics and Robotics. I'm passionate about becoming a Python Developer.
@@ -61,3 +63,5 @@ Welcome to my GitHub profile! I'm Kacper, a second-year student at AGH Universit
 I'm always open to discussing new projects, collaborations, or opportunities to contribute to interesting work. Feel free to reach out if you'd like to connect!
 
 Thank you for visiting my profile, and happy coding! 🚀
+
+<img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" align="right" width="300" height="200"/>
