@@ -3,7 +3,7 @@
 <h2 align="center">Hi there! 👋</h2>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm Kacper, a second-year student at AGH University of Science and Technology in Krakow, where I'm pursuing a degree in Automatics and Robotics. I'm passionate about becoming a Software Developer.
+  Welcome to my GitHub profile! I'm Kacper, a third-year student at AGH University of Science and Technology in Krakow, where I'm pursuing a degree in Automatics and Robotics. I'm passionate about becoming a Software Developer.
 </p>
 
 ---
